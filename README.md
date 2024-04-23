@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @emilijadj
-- 🌱 I’m studying at University Mediterranean Faculty for informational technogoly and I’m currently at University of Leon attending first semester with Erasmus+ programme. 👩‍🎓
-- 👀 And also interested in computer science and programming💻, music🎶, movies🎞️ and my baby dog Aja 🐕💙
+- 🌱 Studying at University Mediterranean Faculty for informational technogoly and University of Leon with Erasmus+ programme. 👩‍🎓
 
 
 <!---
